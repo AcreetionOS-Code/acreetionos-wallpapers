@@ -1,0 +1,4 @@
+[submodule "backgrounds"]
+	path = backgrounds
+	url = https://gitlab.acreetionos.org/natalie/acreetionos.git
+	branch = main
